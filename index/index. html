@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="ky">
+<head>
+<meta charset="UTF-8">
+<title>Нургул Мамажанованын мугалимдик бурчу</title>
+<style>
+body{font-family:Arial; background:#fff8f0; margin:0}
+header{background:#ff7b00; color:white; text-align:center; padding:30px}
+.box{max-width:900px; margin:20px auto; padding:10px}
+.card{background:white; border-radius:15px; padding:20px; margin:15px 0; box-shadow:0 2px 10px #ddd}
+a{display:inline-block; background:#ff7b00; color:white; padding:10px 15px; border-radius:10px; text-decoration:none; margin:5px}
+</style>
+</head>
+<body>
+<header>
+<h1>Нургул Мамажанованын жеке мугалимдик бурчу</h1>
+<p>2-класс үчүн сабак пландары, презентациялар жана көрсөтмө куралдар</p>
+</header>
+<div class="box">
+<div class="card"><h2>📐 Математика</h2><p>Иреттик сандар, кошуу-кемитүү, мисалдар</p><a href="#">Пландарды көрүү</a></div>
+<div class="card"><h2>📖 Окуу</h2><p>Бөлүм боюнча кайталоо, ырлар, жомоктор</p><a href="#">Пландарды көрүү</a></div>
+<div class="card"><h2>🎨 Көркөм өнөр</h2><p>Мал чарбачылыгы, сүрөт тартуу үлгүлөрү</p><a href="#">Пландарды көрүү</a></div>
+<div class="card"><h2>🖼️ Көрсөтмө куралдар</h2><p>Сүрөттөр, карточкалар, презентациялар</p><a href="#">Сүрөттөрдү көрүү</a></div>
+</div>
+</body>
+</html>
